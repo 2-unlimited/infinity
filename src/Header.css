@@ -1,0 +1,11 @@
+.header {
+  padding: 30px 100px;
+}
+
+.header h1, .header h2 {
+  margin: 0;
+}
+
+.header h2 {
+  font-weight: normal;
+}

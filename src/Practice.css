@@ -1,0 +1,31 @@
+.practice {
+    margin: 10px 10px 0 0;
+    padding: 40px;
+    display: inline-block;
+}
+
+.practice .container {
+    display: inline-flex;
+}
+
+.practice .icon {
+    margin: auto;
+    margin-right: 10px;
+    display: inline-block;
+    font-size: 4em;
+}
+
+.practice .content {
+    margin: auto;
+    display: inline-block;
+}
+
+.practice .content h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.practice .content p {
+    margin: 0;
+    font-size: 1em;
+}
