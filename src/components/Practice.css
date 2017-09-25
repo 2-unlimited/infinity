@@ -22,10 +22,11 @@
 
 .practice .content h1 {
   margin: 0;
-  font-size: 1.5em;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .practice .content p {
   margin: 0;
-  font-size: 1em;
+  font-size: 1.1rem;
 }
