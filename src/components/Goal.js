@@ -6,8 +6,7 @@ function Goal() {
     <div className="goal">
       <h2>Team goal</h2>
       <h3>
-        Spicy jalapeno bacon ipsum dolor amet chuck fatback spare ribs brisket
-        ribeye, venison biltong prosciutto pig drumstick.
+        Deliver value to the customer by striving for excellence as a team.
       </h3>
     </div>
   );
